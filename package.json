@@ -1,0 +1,14 @@
+
+{
+  "name": "plataforma-advogados",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^9.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
